@@ -1,4 +1,5 @@
 float q0, q1, q2, q3;
+const int clockPin = 13 
 
 void setup()
 {
